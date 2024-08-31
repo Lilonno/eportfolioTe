@@ -1,0 +1,36 @@
+---
+title: "Mes Projets"
+format: html
+---
+
+## Dossier 
+
+### Année 2023 en Licence d'Analyse économique :
+
+- Analyse des déterminants de l’innovation à l’échelle mondiale en 2018: **[Cliquez ici pour accéder au dossier Économétrie](pdf/E.pdf)**
+
+- Réalisé lors de mon stage de fin d'année, cet article traite de la place des femmes dans le monde viticole. **[Cliquez ici pour accéder à l'article scientifique](pdf/ARL3.pdf)**
+
+### Année 2024 en Master d'Économétrie appliquée :
+
+- Analyse du taux de pauvreté des femmes dans 65 pays en 2021 : **[Cliquez ici pour accéder au dossier d'Analyse de données descriptive](pdf/ADD.pdf)**
+
+- Impact du sport sur la santé : Ce dossier utilise des techniques d'économétrie linéaire avancée pour explorer l'effet du sport sur la santé. **[Cliquez ici pour accéder au dossier d'Économétrie linéaire avancée](pdf/ELA.pdf)**
+
+- Croissance démographique en France de 1960 à 2009 : Ce dossier inclut une analyse des séries temporelles sur les tendances démographiques. **[Cliquez ici pour accéder au dossier de Série temporelle](pdf/ST.pdf)**
+
+## Mémoire
+
+- Sujet du mémoire : Déterminants de la survie au bagne de Cayenne
+
+  - **[Cliquez ici pour accéder à la Note de synthèse de mon Mémoire](pdf/NDS.pdf)**
+
+  - **[Cliquez ici pour accéder au Mémoire Final](pdf/MF.pdf)**
+
+## Data Visualisation
+
+- Projet R Shiny sur la base d'un comparateur de voyage : Dans le cadre de la matière R Shiny à l'IAE, nous avons développé un site en duo, celui-ci permet de comparer les prix des activités au Japon en fonction de la température, des conditions météorologiques, et d'autres critères. **[Cliquez ici](https://lilouonno.shinyapps.io/pshiny/)** pour accéder au projet.  
+
+- Projet R Shiny effectué pour la présentation de mon Mémoire en incluant les tableaux de régressions ainsi que des statistiques descriptives.
+
+- Projet Dash en Python : Analyse des ventes d'un supermarché en fonction de la ville et du sexe.

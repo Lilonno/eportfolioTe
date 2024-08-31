@@ -1,0 +1,88 @@
+---
+title: "ePortfolio Lilou Onno"
+---
+
+Étudiante en Master d'économétrie et statistiques, parcours économétrie appliquée, à l'IAE de Nantes, ce site présente mes projets et réalisations en lien avec mes études et mes compétences en analyse statistique. 
+
+
+## Profil
+
+Mon parcours académique, mes stages et mes premières expériences professionnelles m'ont permis de développer un sens aigu de la rigueur, une organisation méthodique et un fort esprit d'équipe. En tant qu'étudiante en Master d'Économétrie Appliquée à l'IAE de Nantes, je suis déterminée à mettre mes compétences en analyse de données au service de votre entreprise.
+
+Je me considère comme une personne sérieuse, appliquée et capable de s'intégrer rapidement au sein d'une équipe. Mon dynamisme et mon sens de l'initiative me permettent de m'adapter aisément aux nouvelles situations. Je m'engage à accomplir les missions qui me seront confiées avec le plus grand soin. 
+
+## Formations
+
+- **Master Économétrie, Statistiques**  
+  IAE Nantes, 2023 - 2025  
+  Mention Bien (M1)
+  
+- **Licence 3 Analyse Économique**  
+  IAE Nantes, 2022 - 2023
+  
+- **Licence 3 Business Administration**  
+  Universitatea Alexandru Ioan Cuza, 2022
+  
+- **Licence 1 & 2 Économie, Mineur Gestion**  
+  Université de Rouen, 2019 - 2021
+
+## Expériences Professionnelles
+
+- **Hôtesse de Caisse**  
+  Intersport, Juin - Août 2024  
+  - Accueil téléphonique et physique des clients
+  - Renseigner, encaisser et conseiller le client
+  
+- **Animatrice**  
+  Centre de Loisirs de Quincampoix, 2018 - Août 2023  
+  - Encadrement et animation de groupes d'enfants
+  - Organisation d'activités ludiques et éducatives
+
+- **Employée Agricole**  
+  Ferme du Merisier, Juillet 2023  
+  - Arrachage des mauvaises herbes pour maintenir la santé des cultures
+  - Soins et entretien des sapins 
+
+- **Équipière Polyvalente**  
+  Lidl, Février 2021 - Décembre 2021  
+  - Mise en rayon des produits
+  - Encaissement des achats
+  - Préparation et gestion de la boulangerie
+
+  
+- **Gestion des commandes**  
+  Grand Dauphin - Poissonerie, Hiver 2022 et 2023  
+  - Gestion des commandes
+  - Encaissement des achats
+
+
+## Expériences Professionnelles en Analyse de données
+
+- **Stage d’Analyse de Données**  
+  Étude EPICVIC - Institut Georges Chappaz - Reims, Juin 2023  
+  - Contribution à l'étude EPICVIC (500 données quantitatives + 50 entretiens qualitatifs)
+  - Analyse de données quantitatives et qualitatives à l'aide de logiciels tels que Python, SAS, MaxQda, Excel, Gretl, Modalisa
+  - Traitement statistique des recensements agricoles nationaux et de la base de données COSET-MSA (Santé Publique France)
+  - Nettoyage, structuration et analyse de la base de données
+  - Participation à la vie scientifique du laboratoire CEREP et REGARDS (EA6292)
+
+## Mémoire Master
+
+- **Déterminants de la survie au bagne de Cayenne**
+  - Création de la base de données : Élaboration d'une base de données détaillée à partir des archives nationales d'outre-mer, en extrayant et en structurant des données précises sur les bagnards, y compris des informations démographiques, sociales et pénales.
+  - Recensement et analyse des caractéristiques individuelles : Analyse approfondie des caractéristiques individuelles des bagnards, telles que l'âge, le niveau d'instruction, le statut marital, la profession, et la durée de la peine, afin d'identifier les facteurs influençant la survie et les conditions de vie au sein du bagne. Utilisation de méthodes statistiques, y compris la régression linéaire multiple, pour déterminer les variables significatives associées à la mortalité et au comportement des détenus.
+
+## Mémoire Licence
+
+- **Article Scientifique sur la Place des Femmes dans la Viticulture**  
+  - Nettoyage et analyse des bases de données en lien avec l’étude EPICVIC
+
+## Compétences Informatique
+
+- **Langages et Outils**  
+  - R
+  - Python
+  - Power BI
+  - SAS
+  - SQL (Gestion de base de données)
+  - GitHub / Shinyapps
